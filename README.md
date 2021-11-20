@@ -1,2 +1,2 @@
-# unity-space-shooter-project
+# Unity Space Shooter Project
 Create Space Shooter
